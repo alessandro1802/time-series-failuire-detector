@@ -16,21 +16,21 @@
 
 1.  After cloning the repository, create a `Python 3.8` virtual environment inside it:
    
-   ```bash
-   python3.8 -m venv venv
-   ```
-
+```bash
+python3.8 -m venv venv
+```
+   
 2. Activate it (depending on your OS) e.g.
    
-   ```bash
-   source venv/bin/activate
-   ```
+```bash
+source venv/bin/activate
+```
 
 3. Install the libraries:
    
-   ```bash
-   pip install -r requirements.txt
-   ```
+```bash
+pip install -r requirements.txt
+```
 
 ## File-structure
 
